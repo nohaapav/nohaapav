@@ -1,9 +1,3 @@
-Hello! My name is **Pavol Noha**. I'm a full stack dev & consultant currently based in Prague.
-
-If you have something of my interest, please drop me a message.
-
-## GitHub Stats
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=nohaapav&count_private=true&show_icons=true&include_all_commits=true&line_height=25&icon_color=30a14f" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nohaapav" />
