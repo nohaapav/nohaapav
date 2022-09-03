@@ -1,4 +1,4 @@
-Hello! My name is **Pavol**. I'm a full stack dev & consultant currently based in Prague.
+Hello! My name is **Pavol Noha**. I'm a full stack dev & consultant currently based in Prague.
 
 If you have something of my interest, please drop me a message.
 
@@ -14,4 +14,4 @@ If you have something of my interest, please drop me a message.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nohaapav)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavol-noha-0220184a/)
-[![Telegram](https://img.shields.io/badge/-Telegram-32afed?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/cyberpon3/)
+[![Telegram](https://img.shields.io/badge/-Telegram-32afed?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/nohaapav/)
