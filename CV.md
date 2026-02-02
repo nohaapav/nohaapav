@@ -8,7 +8,8 @@ pavol.noha@gmail.com · [github.com/nohaapav](https://github.com/nohaapav)
 ## Summary
 
 Full-Stack developer with 15 years of experience building backend systems, scalable services, and infrastructure platforms in fintech and web3 environments.
-Strong background in JVM-based systems, functional programming (clj/cljs), messaging, and containerized deployments.
+
+Strong background in containerization, functional programming (clj/cljs), messaging, and JVM-based systems.
 
 ## Experience
 
