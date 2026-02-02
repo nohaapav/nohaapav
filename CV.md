@@ -7,15 +7,15 @@ pavol.noha@gmail.com · [github.com/nohaapav](https://github.com/nohaapav)
 
 ## Summary
 
-Full-Stack developer with 15 years of experience building backend systems, scalable services, and infrastructure platforms in fintech, banking and web3 environments.  
-Strong background in JVM-based systems, functional programming (clj/cljs), messaging, and containerized deployments.  
+Full-Stack developer with 15 years of experience building backend systems, scalable services, and infrastructure platforms in fintech and web3 environments.
+Strong background in JVM-based systems, functional programming (clj/cljs), messaging, and containerized deployments.
 
 ## Experience
 
 ### Full-Stack Developer  
 **Freelancer** · Jan 2018 – Present · Remote
 
-Ship full-stack fintech and web3 products from zero to production. Lead architecture and delivery of secure, distributed platforms, APIs, SDKs, and developer tooling.
+Build and ship production-grade software from zero to scale. Design and deliver secure, distributed systems, APIs, SDKs, and developer tools. 
 
 ---
 
@@ -54,15 +54,13 @@ Sept 2022 - Present
 
 **Role:** Lead Developer (SDK/Integrations)
 
-Largest DeFi and DEX platform on Polkadot (Peaked TVL 500M $). Hydration unites swaps, lending and the Hollar stablecoin
-under the roof of a scalable appchain.
+Largest DeFi and DEX platform on Polkadot (Peaked TVL 500M $). Hydration unites swaps, lending and the Hollar stablecoin under the roof of a scalable appchain.
 
-- Build SDKs and integration tooling for plafform & ecosystem partners
+- Build SDKs and integration tooling for platform & ecosystem partners
 - Cross-consensus integrations (EVM, Solana, Sui, etc.)
-- Cross-chain messaging via Snowbridge, Wormhole, Hyperbridge
-- Hybrid UI architecture (Web Components + React) 
+- Hybrid UI (Web Components + React)
 
-**Tech:** TypeScript, JavaScript, RxJS, Web Components, React, Docker, EVM, Substrate
+**Tech:** TypeScript, RxJS, EVM, Substrate, Web Components, React, Docker
 
 ---
 
